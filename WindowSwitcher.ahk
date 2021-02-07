@@ -1,11 +1,11 @@
-﻿#SingleInstance force
+#SingleInstance force
 #NoEnv
 #NoTrayIcon
 SetBatchLines -1
 DetectHiddenWindows Off
 
 ; === CONFIGURATION ===
-Key := "^!I"
+Key := "!p"
 Width := 500
 MaxItems := 15
 LargeIcons := true
